@@ -1,0 +1,14 @@
+Z:\WPF\WPF_TemplatePractice\WPF_TemplatePractice\bin\Debug\WPF_TemplatePractice.exe.config
+Z:\WPF\WPF_TemplatePractice\WPF_TemplatePractice\bin\Debug\WPF_TemplatePractice.exe
+Z:\WPF\WPF_TemplatePractice\WPF_TemplatePractice\bin\Debug\WPF_TemplatePractice.pdb
+Z:\WPF\WPF_TemplatePractice\WPF_TemplatePractice\obj\Debug\MainWindow.g.cs
+Z:\WPF\WPF_TemplatePractice\WPF_TemplatePractice\obj\Debug\App.g.cs
+Z:\WPF\WPF_TemplatePractice\WPF_TemplatePractice\obj\Debug\WPF_TemplatePractice_MarkupCompile.cache
+Z:\WPF\WPF_TemplatePractice\WPF_TemplatePractice\obj\Debug\WPF_TemplatePractice_MarkupCompile.lref
+Z:\WPF\WPF_TemplatePractice\WPF_TemplatePractice\obj\Debug\MainWindow.baml
+Z:\WPF\WPF_TemplatePractice\WPF_TemplatePractice\obj\Debug\WPF_TemplatePractice.g.resources
+Z:\WPF\WPF_TemplatePractice\WPF_TemplatePractice\obj\Debug\WPF_TemplatePractice.Properties.Resources.resources
+Z:\WPF\WPF_TemplatePractice\WPF_TemplatePractice\obj\Debug\WPF_TemplatePractice.csproj.GenerateResource.Cache
+Z:\WPF\WPF_TemplatePractice\WPF_TemplatePractice\obj\Debug\WPF_TemplatePractice.exe
+Z:\WPF\WPF_TemplatePractice\WPF_TemplatePractice\obj\Debug\WPF_TemplatePractice.pdb
+Z:\WPF\WPF_TemplatePractice\WPF_TemplatePractice\obj\Debug\WPF_TemplatePractice.csprojResolveAssemblyReference.cache
