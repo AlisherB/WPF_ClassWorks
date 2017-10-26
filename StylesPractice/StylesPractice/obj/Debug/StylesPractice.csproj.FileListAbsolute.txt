@@ -1,0 +1,17 @@
+Z:\WPF\StylesPractice\StylesPractice\bin\Debug\StylesPractice.exe.config
+Z:\WPF\StylesPractice\StylesPractice\bin\Debug\StylesPractice.exe
+Z:\WPF\StylesPractice\StylesPractice\bin\Debug\StylesPractice.pdb
+Z:\WPF\StylesPractice\StylesPractice\obj\Debug\MainWindow.g.cs
+Z:\WPF\StylesPractice\StylesPractice\obj\Debug\App.g.cs
+Z:\WPF\StylesPractice\StylesPractice\obj\Debug\StylesPractice_MarkupCompile.cache
+Z:\WPF\StylesPractice\StylesPractice\obj\Debug\StylesPractice_MarkupCompile.lref
+Z:\WPF\StylesPractice\StylesPractice\obj\Debug\MainWindow.baml
+Z:\WPF\StylesPractice\StylesPractice\obj\Debug\StylesPractice.g.resources
+Z:\WPF\StylesPractice\StylesPractice\obj\Debug\StylesPractice.Properties.Resources.resources
+Z:\WPF\StylesPractice\StylesPractice\obj\Debug\StylesPractice.csproj.GenerateResource.Cache
+Z:\WPF\StylesPractice\StylesPractice\obj\Debug\StylesPractice.exe
+Z:\WPF\StylesPractice\StylesPractice\obj\Debug\StylesPractice.pdb
+Z:\WPF\StylesPractice\StylesPractice\obj\Debug\DarkDictionary.baml
+Z:\WPF\StylesPractice\StylesPractice\obj\Debug\LightDictionary.baml
+Z:\WPF\StylesPractice\StylesPractice\obj\Debug\PurpleDictionary.baml
+Z:\WPF\StylesPractice\StylesPractice\obj\Debug\StylesPractice.csprojResolveAssemblyReference.cache

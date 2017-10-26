@@ -1,0 +1,17 @@
+﻿<Window x:Class="DataBindingLesson.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DataBindingLesson"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="387.295">
+    <Grid>
+        <ListView Name="productsList" HorizontalAlignment="Left" Height="227" VerticalAlignment="Top" Width="379">
+
+        </ListView>
+        <TextBox Name="productTextBox" HorizontalAlignment="Left" Height="23" Margin="10,244,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button Name="addButton" Click="AddButton_Click" Content="Добавить" HorizontalAlignment="Left" Margin="156,244,0,0" VerticalAlignment="Top" Width="79" Height="23"/>
+
+    </Grid>
+</Window>

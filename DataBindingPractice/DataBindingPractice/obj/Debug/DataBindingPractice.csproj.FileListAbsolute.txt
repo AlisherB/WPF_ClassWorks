@@ -1,0 +1,15 @@
+Z:\WPF\DataBindingPractice\DataBindingPractice\bin\Debug\DataBindingPractice.exe.config
+Z:\WPF\DataBindingPractice\DataBindingPractice\bin\Debug\DataBindingPractice.exe
+Z:\WPF\DataBindingPractice\DataBindingPractice\bin\Debug\DataBindingPractice.pdb
+Z:\WPF\DataBindingPractice\DataBindingPractice\obj\Debug\AddWindow.g.cs
+Z:\WPF\DataBindingPractice\DataBindingPractice\obj\Debug\MainWindow.g.cs
+Z:\WPF\DataBindingPractice\DataBindingPractice\obj\Debug\App.g.cs
+Z:\WPF\DataBindingPractice\DataBindingPractice\obj\Debug\DataBindingPractice_MarkupCompile.cache
+Z:\WPF\DataBindingPractice\DataBindingPractice\obj\Debug\DataBindingPractice_MarkupCompile.lref
+Z:\WPF\DataBindingPractice\DataBindingPractice\obj\Debug\AddWindow.baml
+Z:\WPF\DataBindingPractice\DataBindingPractice\obj\Debug\MainWindow.baml
+Z:\WPF\DataBindingPractice\DataBindingPractice\obj\Debug\DataBindingPractice.g.resources
+Z:\WPF\DataBindingPractice\DataBindingPractice\obj\Debug\DataBindingPractice.Properties.Resources.resources
+Z:\WPF\DataBindingPractice\DataBindingPractice\obj\Debug\DataBindingPractice.csproj.GenerateResource.Cache
+Z:\WPF\DataBindingPractice\DataBindingPractice\obj\Debug\DataBindingPractice.exe
+Z:\WPF\DataBindingPractice\DataBindingPractice\obj\Debug\DataBindingPractice.pdb

@@ -1,0 +1,16 @@
+Z:\WPF\StylesLesson\StylesLesson\bin\Debug\StylesLesson.exe.config
+Z:\WPF\StylesLesson\StylesLesson\bin\Debug\StylesLesson.exe
+Z:\WPF\StylesLesson\StylesLesson\bin\Debug\StylesLesson.pdb
+Z:\WPF\StylesLesson\StylesLesson\obj\Debug\MainWindow.g.cs
+Z:\WPF\StylesLesson\StylesLesson\obj\Debug\Page1.g.cs
+Z:\WPF\StylesLesson\StylesLesson\obj\Debug\App.g.cs
+Z:\WPF\StylesLesson\StylesLesson\obj\Debug\StylesLesson_MarkupCompile.cache
+Z:\WPF\StylesLesson\StylesLesson\obj\Debug\StylesLesson_MarkupCompile.lref
+Z:\WPF\StylesLesson\StylesLesson\obj\Debug\MainWindow.baml
+Z:\WPF\StylesLesson\StylesLesson\obj\Debug\Page1.baml
+Z:\WPF\StylesLesson\StylesLesson\obj\Debug\RedTheme.baml
+Z:\WPF\StylesLesson\StylesLesson\obj\Debug\StylesLesson.g.resources
+Z:\WPF\StylesLesson\StylesLesson\obj\Debug\StylesLesson.Properties.Resources.resources
+Z:\WPF\StylesLesson\StylesLesson\obj\Debug\StylesLesson.csproj.GenerateResource.Cache
+Z:\WPF\StylesLesson\StylesLesson\obj\Debug\StylesLesson.exe
+Z:\WPF\StylesLesson\StylesLesson\obj\Debug\StylesLesson.pdb

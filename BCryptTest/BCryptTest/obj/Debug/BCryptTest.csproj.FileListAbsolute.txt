@@ -1,0 +1,16 @@
+Z:\WPF\BCryptTest\BCryptTest\bin\Debug\BCryptTest.exe.config
+Z:\WPF\BCryptTest\BCryptTest\bin\Debug\BCryptTest.exe
+Z:\WPF\BCryptTest\BCryptTest\bin\Debug\BCryptTest.pdb
+Z:\WPF\BCryptTest\BCryptTest\bin\Debug\DevOne.Security.Cryptography.BCrypt.dll
+Z:\WPF\BCryptTest\BCryptTest\obj\Debug\BCryptTest.csprojResolveAssemblyReference.cache
+Z:\WPF\BCryptTest\BCryptTest\obj\Debug\MainWindow.g.cs
+Z:\WPF\BCryptTest\BCryptTest\obj\Debug\App.g.cs
+Z:\WPF\BCryptTest\BCryptTest\obj\Debug\BCryptTest_MarkupCompile.cache
+Z:\WPF\BCryptTest\BCryptTest\obj\Debug\BCryptTest_MarkupCompile.lref
+Z:\WPF\BCryptTest\BCryptTest\obj\Debug\MainWindow.baml
+Z:\WPF\BCryptTest\BCryptTest\obj\Debug\BCryptTest.g.resources
+Z:\WPF\BCryptTest\BCryptTest\obj\Debug\BCryptTest.Properties.Resources.resources
+Z:\WPF\BCryptTest\BCryptTest\obj\Debug\BCryptTest.csproj.GenerateResource.Cache
+Z:\WPF\BCryptTest\BCryptTest\obj\Debug\BCryptTest.csproj.CoreCompileInputs.cache
+Z:\WPF\BCryptTest\BCryptTest\obj\Debug\BCryptTest.exe
+Z:\WPF\BCryptTest\BCryptTest\obj\Debug\BCryptTest.pdb
